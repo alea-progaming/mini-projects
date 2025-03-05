@@ -16,6 +16,7 @@ body {
   background-color: var(--bg-color);
 }
 
+
 .input-container {
   display: flex;
   justify-content: center;
@@ -86,6 +87,10 @@ body {
   padding: 6rem;
   margin: 6rem auto;
   color: white;
+}
+
+.hidden {
+  display: none !important;
 }
 
 .clock-container .item-container {
